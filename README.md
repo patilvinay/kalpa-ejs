@@ -1,23 +1,18 @@
 # kalpa-ejs [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Kalpa ejs module
 
-## Installation
+# Kalpa ejs module
 
-```sh
-$ npm install --save kalpa-ejs
-```
+## Getting started
 
-## Usage
+see: [kalpa](https://www.npmjs.com/package/kalpa)
 
-```js
-const kalpaEjs = require('kalpa-ejs');
+### Style guide
 
-kalpaEjs('Rainbow');
-```
+[Airbnb style-guide](https://github.com/airbnb/javascripthttps://github.com/airbnb/javascript)
+
 ## License
 
 Apache-2.0 © [Vinay Patil]()
-
 
 [npm-image]: https://badge.fury.io/js/kalpa-ejs.svg
 [npm-url]: https://npmjs.org/package/kalpa-ejs
